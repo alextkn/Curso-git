@@ -4,3 +4,9 @@ C:\Users\alext\Desktop\Cursos\C#\Exercicios\Aula 99\Aula 99\bin\Debug\Aula 99.pd
 C:\Users\alext\Desktop\Cursos\C#\Exercicios\Aula 99\Aula 99\obj\Debug\Aula 99.csprojResolveAssemblyReference.cache
 C:\Users\alext\Desktop\Cursos\C#\Exercicios\Aula 99\Aula 99\obj\Debug\Aula 99.exe
 C:\Users\alext\Desktop\Cursos\C#\Exercicios\Aula 99\Aula 99\obj\Debug\Aula 99.pdb
+C:\Users\alext\Desktop\Cursos\C#\Exercicios\Curso-git\Aula 99\bin\Debug\Aula 99.exe.config
+C:\Users\alext\Desktop\Cursos\C#\Exercicios\Curso-git\Aula 99\bin\Debug\Aula 99.exe
+C:\Users\alext\Desktop\Cursos\C#\Exercicios\Curso-git\Aula 99\bin\Debug\Aula 99.pdb
+C:\Users\alext\Desktop\Cursos\C#\Exercicios\Curso-git\Aula 99\obj\Debug\Aula 99.csprojResolveAssemblyReference.cache
+C:\Users\alext\Desktop\Cursos\C#\Exercicios\Curso-git\Aula 99\obj\Debug\Aula 99.exe
+C:\Users\alext\Desktop\Cursos\C#\Exercicios\Curso-git\Aula 99\obj\Debug\Aula 99.pdb
