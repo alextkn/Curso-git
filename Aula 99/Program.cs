@@ -10,7 +10,7 @@ namespace Aula_99
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("___________________________________");
             Console.WriteLine("Olá mundo!");
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Tenha um bom dia!");
